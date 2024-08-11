@@ -15,7 +15,7 @@ export class ExperiencesComponent {
         strong: "Associate - Software Developer",
         p: " Expeditors International ltda | Out 2017 - Present"
       },
-      text: "Desde 2023 trabalhando como Software Developer, utilizando Python e SQL Server atualmente trocando stack para Java, Springboot e angular/typescript",
+      text: "Desde 2023 trabalhando como Software Developer, utilizando Python e SQL Server atualmente trocando stack para Java, Springboot e Angular & Typescript",
     },
 
     {
